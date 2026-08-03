@@ -2,40 +2,40 @@
 
 <p align="center">
   <strong>Software Engineer</strong><br>
-  MCA '26 • Goa University • Ex-Software Engineer Intern at Onstro
+  Ex-Software Engineer Intern at Onstro • MCA '26, Goa University
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/sanket-nagwekar">LinkedIn</a> •
-  <a href="https://github.com/SanketNagwekar">GitHub</a> •
-  <a href="mailto:work.sanketn@gmail.com">Email</a>
+  <a href="mailto:work.sanketn@gmail.com">Email</a> •
+  <a href="https://github.com/SanketNagwekar">GitHub</a>
 </p>
 
 ---
 
 ## About Me
 
-I am a Software Engineer with a Master's in Computer Applications from Goa University and hands-on industry experience gained as a Software Engineer Intern at Onstro.
+I am a Software Engineer with a Master's in Computer Applications from Goa University and hands-on industry experience as a Software Engineer Intern at Onstro.
 
-I enjoy solving real-world problems through software, building scalable applications, and writing clean, maintainable code. I thrive in collaborative environments where I can learn, take ownership, and contribute to products that create meaningful impact.
+I enjoy building reliable software, solving real-world problems, and writing clean, maintainable code. My experience spans frontend, backend, and full-stack development, and I thrive in collaborative environments where learning and continuous improvement are valued.
 
-Currently seeking opportunities as a **Software Engineer**.
+I am currently seeking opportunities where I can contribute to meaningful products while continuing to grow as a software engineer.
 
 ---
 
 ## Experience
 
-### Software Engineer Intern | Onstro (formerly Teknorix)
+### Software Engineer Intern — Onstro *(formerly Teknorix)*
 
-- Built a live shipment tracking dashboard for a blockchain-based government logistics platform.
-- Published a reusable npm package to improve UI consistency across projects.
-- Migrated a production React application across major framework versions while maintaining stability.
-- Enhanced dashboard responsiveness and user experience for production applications.
+- Developed a live shipment tracking dashboard for a Ghana government blockchain project.
+- Published a reusable npm package for email recipient autocomplete.
+- Migrated a production React application across multiple major framework versions.
+- Improved responsiveness and user experience for production dashboards.
 
-### Front End Developer Intern | S. S. Technologies
+### Front End Developer Intern — S. S. Technologies
 
 - Developed responsive web interfaces from design specifications.
-- Built interactive UI components using modern JavaScript.
+- Built interactive UI components using JavaScript.
 - Collaborated through code reviews and iterative development.
 
 ---
@@ -44,7 +44,7 @@ Currently seeking opportunities as a **Software Engineer**.
 
 ### Craftsmen
 
-A full-stack construction solutions platform built to streamline customer interactions and administrative workflows.
+A full-stack platform developed for the construction industry.
 
 **Highlights**
 
@@ -53,52 +53,27 @@ A full-stack construction solutions platform built to streamline customer intera
 - RESTful backend architecture
 - Production deployment
 
+> More projects are available in my repositories.
+
 ---
 
 ## Technical Skills
 
 ### Languages
 
-- JavaScript (ES6+)
-- TypeScript
-- HTML5
-- CSS3
-- SQL
+`JavaScript` • `TypeScript` • `HTML5` • `CSS3` • `SQL`
 
 ### Frameworks & Libraries
 
-- React
-- React Router
-- Node.js
-- Express.js
-- Tailwind CSS
-- Bootstrap
+`React` • `React Router` • `Node.js` • `Express.js` • `Tailwind CSS` • `Bootstrap`
 
 ### Databases
 
-- MongoDB
-- PostgreSQL
-- MySQL
+`MongoDB` • `PostgreSQL` • `MySQL`
 
 ### Tools
 
-- Git
-- GitHub
-- BitBucket
-- SourceTree
-- VS Code
-
----
-
-## GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SanketNagwekar&show_icons=true&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanketNagwekar&layout=compact&hide_border=true"/>
-
-</p>
+`Git` • `GitHub` • `BitBucket` • `SourceTree` • `VS Code`
 
 ---
 
@@ -107,15 +82,24 @@ A full-stack construction solutions platform built to streamline customer intera
 - Six-time State-Level IT Quiz Champion
 - Runner-up in Technical Debate Competition
 - Runner-up in Mock Sports Auction
-- Inter-Collegiate Table Tennis Doubles – Third Place
+- Inter-Collegiate Table Tennis Doubles — Third Place
 
 ---
 
-## Let's Connect
+## Currently Exploring
+
+- Building scalable software
+- Modern application architecture
+- Writing clean and maintainable code
+- Open-source contributions
+
+---
+
+## Connect
 
 - **LinkedIn:** https://linkedin.com/in/sanket-nagwekar
 - **Email:** work.sanketn@gmail.com
 
 ---
 
-> *"Building software with purpose, continuously learning, and always striving to leave every codebase better than I found it."*
+> *"Software engineering is about solving problems thoughtfully, writing code responsibly, and never stopping the pursuit of learning."*
