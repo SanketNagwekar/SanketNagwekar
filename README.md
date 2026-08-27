@@ -1,13 +1,13 @@
-<h1 align="center">Hi, I'm Sanket Nagwekar</h1>
+<h1 align="center">Sanket Nagwekar</h1>
 
 <p align="center">
   <strong>Software Engineer</strong><br>
-  Ex-Software Engineer Intern at Onstro • MCA '26, Goa University
+  MCA, Goa University · Ex-Software Engineer Intern at Onstro · Software Engineer Trainee at Revature
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/sanket-nagwekar">LinkedIn</a> •
-  <a href="mailto:work.sanketn@gmail.com">Email</a> •
+  <a href="https://linkedin.com/in/sanket-nagwekar">LinkedIn</a> ·
+  <a href="mailto:work.sanketn@gmail.com">Email</a> ·
   <a href="https://github.com/SanketNagwekar">GitHub</a>
 </p>
 
@@ -15,45 +15,91 @@
 
 ## About Me
 
-I am a Software Engineer with a Master's in Computer Applications from Goa University and hands-on industry experience as a Software Engineer Intern at Onstro.
+I am a Software Engineer with a Master of Computer Applications from Goa University and hands-on industry experience across frontend, backend, and full-stack development.
 
-I enjoy building reliable software, solving real-world problems, and writing clean, maintainable code. My experience spans frontend, backend, and full-stack development, and I thrive in collaborative environments where learning and continuous improvement are valued.
+At **Onstro (formerly Teknorix)**, I contributed to production applications, including a live shipment tracking dashboard for a Ghana government blockchain project, a reusable npm component, production React migrations, and responsive data-heavy dashboards.
 
-I am currently seeking opportunities where I can contribute to meaningful products while continuing to grow as a software engineer.
+I am currently a **Software Engineer Trainee at Revature**, strengthening my backend and software engineering capabilities through hands-on development with Python, Flask, SQL, and Linux while applying Agile methodologies, Git, testing practices, and structured development workflows.
+
+I enjoy solving real-world problems, designing maintainable software, and continuously expanding my engineering capabilities.
 
 ---
 
 ## Experience
 
-### Software Engineer Intern — Onstro *(formerly Teknorix)*
+### Software Engineer Trainee — Revature
 
-- Developed a live shipment tracking dashboard for a Ghana government blockchain project.
-- Published a reusable npm package for email recipient autocomplete.
-- Migrated a production React application across multiple major framework versions.
-- Improved responsiveness and user experience for production dashboards.
+- Developing hands-on expertise in Python, Flask, SQL, and Linux through structured software engineering exercises and projects.
+- Applying Agile methodologies, Git, and software engineering best practices through collaborative development workflows.
+- Solving topic-based coding challenges and participating in technical assessments and quality audits.
+- Building end-to-end applications while strengthening development, debugging, testing, and problem-solving skills.
+
+### Software Engineer Intern (React.js) — Onstro
+*Formerly Teknorix*
+
+- Developed a live shipment tracking dashboard for a Ghana government blockchain project using React, TypeScript, and React-Leaflet.
+- Developed and published a modular email-recipient component to npm with reusable autocomplete and multi-select functionality.
+- Independently migrated a production application from React 16 to 19, React Router 5 to 7, and Ant Design 5 to 6.
+- Improved mobile responsiveness and UX across data-heavy production dashboards.
 
 ### Front End Developer Intern — S. S. Technologies
 
-- Developed responsive web interfaces from design specifications.
-- Built interactive UI components using JavaScript.
-- Collaborated through code reviews and iterative development.
+- Developed responsive web interfaces using HTML5, CSS3, Bootstrap, and JavaScript.
+- Built interactive client-side components using DOM manipulation and event handling.
+- Collaborated through code reviews and iterative development with a technical mentor.
 
 ---
 
-## Featured Project
+## Featured Projects
 
-### Craftsmen
+### Expense360
+**Employee Expense & Travel Management Portal**
 
-A full-stack platform developed for the construction industry.
+A full-stack Flask application for managing business travel, expense claims, approvals, and reimbursements.
 
 **Highlights**
+- Flask, MySQL, SQLAlchemy, and Jinja2
+- Role-based access control for multiple user roles
+- Session-based authentication and JWT-based REST APIs
+- Layered Controller–Service–DAO architecture
+- Expense policy validation and multi-level approval workflows
+- Receipt upload and file validation
+- Automated unit and integration testing with pytest
 
-- End-to-end application development
-- Secure authentication
-- RESTful backend architecture
-- Production deployment
+[View Repository](https://github.com/SanketNagwekar/revature_capstone_p1_employee_expense_travel_portal)
 
-> More projects are available in my repositories.
+---
+
+### Craftsmen
+**Full-Stack Construction Management Platform**
+
+A full-stack web platform developed for a construction client.
+
+**Highlights**
+- React-based customer and administrative interfaces
+- Node.js and Sails.js RESTful backend
+- PostgreSQL database integration
+- Secure token-based authentication
+- Production deployment on Render
+
+[View Repository](https://github.com/SanketNagwekar/craftsmen)
+
+---
+
+### Console-Based E-Commerce Application
+
+A Python and MySQL application demonstrating object-oriented design, database integration, business logic, and automated testing.
+
+**Highlights**
+- Layered Controller–Service–DAO architecture
+- User authentication and role-based authorization
+- Product, cart, and order management
+- MySQL-backed CRUD operations
+- Password hashing and stock validation
+- Automated testing with pytest and mocked dependencies
+- JSON-based application logging
+
+[View Repository](https://github.com/SanketNagwekar/p0-console-ecommerce-python)
 
 ---
 
@@ -61,45 +107,46 @@ A full-stack platform developed for the construction industry.
 
 ### Languages
 
-`JavaScript` • `TypeScript` • `HTML5` • `CSS3` • `SQL`
+`Python` · `JavaScript` · `TypeScript` · `HTML5` · `CSS3` · `SQL`
 
 ### Frameworks & Libraries
 
-`React` • `React Router` • `Node.js` • `Express.js` • `Tailwind CSS` • `Bootstrap`
+`React` · `React Router` · `Node.js` · `Express.js` · `Flask` · `Tailwind CSS` · `Bootstrap`
 
 ### Databases
 
-`MongoDB` • `PostgreSQL` • `MySQL`
+`MySQL` · `PostgreSQL` · `MongoDB`
 
-### Tools
+### Tools & Practices
 
-`Git` • `GitHub` • `BitBucket` • `SourceTree` • `VS Code`
+`Git` · `GitHub` · `Bitbucket` · `SourceTree` · `VS Code` · `Linux` · `Agile`
+
+### Testing
+
+`pytest` · Unit Testing · Integration Testing · Mocking
 
 ---
 
 ## Achievements
 
-- Six-time State-Level IT Quiz Champion
-- Runner-up in Technical Debate Competition
-- Runner-up in Mock Sports Auction
-- Inter-Collegiate Table Tennis Doubles — Third Place
+- First place in six state-level IT quizzes during college.
+- Second place in a technical debate competition.
+- Second place in a mock sports auction.
+- Third place in Table Tennis Doubles at an inter-collegiate tournament.
 
 ---
 
-## Currently Exploring
+## Currently
 
-- Building scalable software
-- Modern application architecture
-- Writing clean and maintainable code
-- Open-source contributions
+Continuously strengthening my software engineering skills through hands-on development, project-based learning, and real-world engineering practices.
+
+Interested in building reliable software, solving meaningful problems, and growing as a well-rounded Software Engineer.
 
 ---
 
 ## Connect
 
-- **LinkedIn:** https://linkedin.com/in/sanket-nagwekar
-- **Email:** work.sanketn@gmail.com
-
----
-
-> *"Software engineering is about solving problems thoughtfully, writing code responsibly, and never stopping the pursuit of learning."*
+<p align="center">
+  <a href="https://linkedin.com/in/sanket-nagwekar">LinkedIn</a> ·
+  <a href="mailto:work.sanketn@gmail.com">Email</a>
+</p>
